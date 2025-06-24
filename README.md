@@ -2,7 +2,7 @@
 
 ## Introduction to Wireframing
 
-Wireframing is a fundamental step in the UI/UX design process that involves creating a visual blueprint or skeletal framework of a website, application, or digital product. Think of wireframes as the architectural blueprints for digital experiences – they outline the basic structure, layout, and functionality without getting distracted by colors, fonts, or detailed visual elements.
+Wireframing is a fundamental step in the UI/UX design process that involves creating a visual blueprint or skeletal framework of a website, application, or digital product. Think of wireframes as the architectural blueprints for digital experiences - they outline the basic structure, layout, and functionality without getting distracted by colors, fonts, or detailed visual elements.
 
 The importance of wireframing in the design process cannot be overstated. It serves as a crucial bridge between initial concept and final product, allowing designers and developers to:
 
